@@ -837,4 +837,19 @@
       <psget:ProjectUrl>https://github.com/dlwyatt/ProtectedData</psget:ProjectUrl>
     </psget:properties>
   </entry>
+  <entry>
+    <id>LandLord</id>
+    <title type="text">LandLord</title>
+    <summary type="text">Automate Virtual Server Environments.</summary>
+    <updated>2014-11-22T00:00:00+10:00</updated>
+    <author>
+      <name>Eric Hexter</name>
+      <uri>https://github.com/erichexter</uri>
+      <email>eric.hexter@gmail.com</email>
+    </author>
+    <content type="text/plain" src="https://raw.githubusercontent.com/QuarterSpot/Landlord/master/landlord.psm1" />
+    <psget:properties>
+      <psget:ProjectUrl>https://github.com/QuarterSpot/Landlord</psget:ProjectUrl>
+    </psget:properties>
+  </entry>  
 </feed>
